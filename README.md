@@ -2,6 +2,7 @@
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
+![Excel to Power BI](https://raw.githubusercontent.com/shikhacse/top_uk_youtubers_2024/main/assets/images/kaggle_to_powerbi.gif)
 
 
 
