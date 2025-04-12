@@ -1,8 +1,7 @@
 # Data Portfolio: Excel to Power BI 
 
 
-![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
-![Excel to Power BI](https://raw.githubusercontent.com/shikhacse/top_uk_youtubers_2024/main/assets/images/kaggle_to_powerbi.gif)
+![excel-to-powerbi-animated-diagram](assests/images/kaggle_to_powerbi.gif)
 
 
 
@@ -120,7 +119,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+![Dashboard-Mockup](assests/images/dashboard_mockup.png)
 
 
 ## Tools 
@@ -275,7 +274,7 @@ FROM
 
 ```
 
-![Row count check](assets/images/1_row_count_check.png)
+![Row count check](assests/images/1_row_count_check.png)
 
 
 
@@ -295,7 +294,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![Column count check](assets/images/2_column_count_check.png)
+![Column count check](assests/images/2_column_count_check.png)
 
 
 
@@ -316,7 +315,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-![Data type check](assets/images/3_data_type_check.png)
+![Data type check](assests/images/3_data_type_check.png)
 
 
 ## Duplicate count check
@@ -344,7 +343,7 @@ HAVING
     COUNT(*) > 1;
 ```
 ### Output
-![Duplicate count check](assets/images/4_duplicate_records_check.png)
+![Duplicate count check](assests/images/4_duplicate_records_check.png)
 
 # Visualization 
 
@@ -353,7 +352,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![GIF of Power BI Dashboard](assests/images/top_uk_youtubers_2024.gif)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
@@ -616,7 +615,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs.png)
+![Most subsc](assests/images/youtubers_with_the_most_subs.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -706,7 +705,7 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/youtubers_with_the_most_videos.png)
+![Most videos](assests/images/youtubers_with_the_most_videos.png)
 
 
 ### 3.  Youtubers with the most views 
@@ -801,7 +800,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.png)
+![Most views](assests/images/youtubers_with_the_most_views.png)
 
 
 
